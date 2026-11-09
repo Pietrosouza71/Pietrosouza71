@@ -4,13 +4,13 @@ Oi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Em constante aprendizado, construindo meu futuro através da tecnologia.
 --------------------------------------------------------------------------
 
-\# 👨 💻 Olá, mundo! Seja bem-vindo ao meu GitHub.
+ 👨 💻 Olá, mundo! Seja bem-vindo ao meu GitHub.
 
 Sou um estudante de tecnologia e programação, sempre buscando aprender novas habilidades, desenvolver projetos e evoluir como profissional na área de TI.
 
 Tenho interesse em desenvolvimento de software, programação e análise de dados. Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções inovadoras.
 
-🚀 \*\*Sobre mim\*\*
+Sobre mim
 
 \- 💻 Interessado em tecnologia e programação.
 
