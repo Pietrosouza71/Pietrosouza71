@@ -1,10 +1,10 @@
 Oi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é Pietro Souza
 =====================================================================================================================================
 
-🚀 Em constante aprendizado, construindo meu futuro através da tecnologia.
+Em constante aprendizado, construindo meu futuro através da tecnologia.
 --------------------------------------------------------------------------
 
- 👨 💻 Olá, mundo! Seja bem-vindo ao meu GitHub.
+ Olá, mundo! Seja bem-vindo ao meu GitHub.
 
 Sou um estudante de tecnologia e programação, sempre buscando aprender novas habilidades, desenvolver projetos e evoluir como profissional na área de TI.
 
@@ -12,23 +12,21 @@ Tenho interesse em desenvolvimento de software, programação e análise de dado
 
 Sobre mim
 
-\- 💻 Interessado em tecnologia e programação.
+\- Interessado em tecnologia e programação.
 
-\- 📊 Interesse em análise de dados.
+\- Interesse em análise de dados.
 
-\- 📚 Sempre aprendendo e buscando novos conhecimentos.
+\- Sempre aprendendo e buscando novos conhecimentos.
 
-\- 🎯 Focado no meu crescimento profissional na área de tecnologia.
+\- Focado no meu crescimento profissional na área de tecnologia.
 
-\- 🛠️ Desenvolvendo projetos para aprimorar minhas habilidades.
+\- Desenvolvendo projetos para aprimorar minhas habilidades.
 
 Objetivo
 
 Meu objetivo é evoluir constantemente como desenvolvedor, adquirir experiência prática e construir projetos que demonstrem minhas habilidades e minha dedicação à tecnologia.
 
 Este GitHub é um espaço onde compartilho meus projetos, aprendizados e minha jornada no mundo da programação.
-
-Obrigado por visitar meu perfil! 🚀
 
 📍 São Paulo, Brasil
 ✉️ Você pode me contatar pelo [spietro493@gmail.com](mailto:spietro493@gmail.com)
