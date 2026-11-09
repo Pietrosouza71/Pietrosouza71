@@ -29,6 +29,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, adquirir experiência
 Este GitHub é um espaço onde compartilho meus projetos, aprendizados e minha jornada no mundo da programação.
 
 📍 São Paulo, Brasil
+
 ✉️ Você pode me contatar pelo [spietro493@gmail.com](mailto:spietro493@gmail.com)
 
 <p align="left">
